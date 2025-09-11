@@ -24,7 +24,7 @@
 Trang bị cho sinh viên hiểu về cách thức kết nối cơ bản của UDP từ client tới server bằng cách gửi 1 file txt có sẵn text trong đó đến server sẽ nhận file , tạo và lưu trữ vào trong code
 
 
-*Mục tiêu :
+Mục tiêu :
 - Nghiên cứu lý thuyết về giao thức UDP và so sánh với TCP.
 - Hiểu rõ cách thức hoạt động của UDP trong việc truyền tải dữ liệu.
 - Xây dựng chương trình Client – Server bằng ngôn ngữ Java để gửi và nhận file (ví dụ: .txt).
