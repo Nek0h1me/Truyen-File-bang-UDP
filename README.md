@@ -29,22 +29,17 @@ Trang bị cho sinh viên hiểu về cách thức kết nối cơ bản của U
 - Hiểu rõ cách thức hoạt động của UDP trong việc truyền tải dữ liệu.
 - Xây dựng chương trình Client – Server bằng ngôn ngữ Java để gửi và nhận file .
 - Vận dụng kiến thức về lập trình socket trong Java.
-### 🏗️ Thành phần
-- **Server**:
-    - 
-    - 
-- **Client**:
-    - 
-    -
-## ⚙️ Chức năng chính
+
+## ⚙️ 2. Chức năng chính
+    - Client: đọc file, chia thành gói tin, gửi qua UDP.
+    - Server: nhận gói tin, sắp xếp và ghi thành file đầu ra.
+    -Đánh số gói tin: đảm bảo dữ liệu ghép đúng thứ tự.
 
 
+## 🔧 3. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
 
-## 🔧 2. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-
-
-## 🚀 3. Hướng dẫn chạy
+## 🚀 4. Hướng dẫn chạy
 
 Biên dịch chương trình:
 
@@ -53,9 +48,9 @@ javac *.java
 
 Chạy server trước:
 
-java UDPServer
+java Server
 
 
 Chạy client để gửi hoặc nhận dữ liệu:
 
-java UDPClient
+java Client
