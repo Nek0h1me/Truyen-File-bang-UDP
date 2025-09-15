@@ -56,9 +56,10 @@ Chạy client để gửi hoặc nhận dữ liệu:
 java Client
 
 ##  5. Kết quả
-
+<div>
     <p align="center">
         <img src="1.png" alt="" width=""/>
         <img src="2.png" alt="" width=""/>
         <img src="3.png" alt="" width=""/>
     </p>
+</div>
