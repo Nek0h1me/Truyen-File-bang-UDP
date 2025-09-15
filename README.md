@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-   LẬP TRÌNH MẠNG: TRUYỀN DẪN FILE BẰNG UDP
+TRUYỀN DẪN FILE BẰNG UDP
 </h2>
 <div align="center">
     <p align="center">
