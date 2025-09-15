@@ -71,6 +71,10 @@ java Client
 
 
 ##  6. Liên hệ 
-**Họ và tên:** Nguyễn Cao Tùng.
-**Lớp** CNTT 16-03.
-**Email** nguyentungxneko@gmail.com.
+**Họ tên**: Nguyễn Cao Tùng.  
+**Lớp**: CNTT 16-03.  
+**Email**: nguyentungxneko@gmail.com.
+
+© 2025 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
+
+---
