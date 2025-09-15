@@ -57,4 +57,8 @@ java Client
 
 ##  5. Kết quả
 
-
+    <p align="center">
+        <img src="" alt="" width=""/>
+        <img src="" alt="" width=""/>
+        <img src="" alt="" width=""/>
+    </p>
