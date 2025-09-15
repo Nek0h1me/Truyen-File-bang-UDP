@@ -68,3 +68,9 @@ java Client
   <img src="3.png" alt="Mô tả" style="max-width:100%; display:block; margin:0 auto;">
   <p align="center" style="margin:8px 0 0;">3: Chọn file đưa vào Client</p>
 </div>
+
+
+##  6. Liên hệ 
+**Họ và tên:** Nguyễn Cao Tùng
+**Lớp** CNTT 16-03 
+**Email** nguyentungxneko@gmail.com
