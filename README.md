@@ -59,7 +59,10 @@ java Client
 <div>
     <p align="center">
         <img src="1.png" alt="" width=""/>
+        <a> 1: Server</a>
         <img src="2.png" alt="" width=""/>
+        <a> 2: Client </a>
         <img src="3.png" alt="" width=""/>
+        <a> 3: Chọn file </a>
     </p>
 </div>
