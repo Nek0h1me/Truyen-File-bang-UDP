@@ -56,13 +56,15 @@ Chạy client để gửi hoặc nhận dữ liệu:
 java Client
 
 ##  5. Kết quả
-<div>
-    <p align="center">
-        <img src="1.png" alt="" width=""/>
-        <a> 1: Server</a>
-        <img src="2.png" alt="" width=""/>
-        <a> 2: Client </a>
-        <img src="3.png" alt="" width=""/>
-        <a> 3: Chọn file </a>
-    </p>
+<div style="text-align:center; width:250px;">
+  <img src="1.png" alt="Mô tả" style="max-width:100%; display:block; margin:0 auto;">
+  <p style="margin:8px 0 0;">1: Server</p>
+</div>
+<div style="text-align:center; width:250px;">
+  <img src="2.png" alt="Mô tả" style="max-width:100%; display:block; margin:0 auto;">
+  <p style="margin:8px 0 0;">2: Client</p>
+</div>
+<div style="text-align:center; width:250px;">
+  <img src="3.png" alt="Mô tả" style="max-width:100%; display:block; margin:0 auto;">
+  <p style="margin:8px 0 0;">3: Chọn file đưa vào Client</p>
 </div>
