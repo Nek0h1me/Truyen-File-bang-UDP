@@ -33,7 +33,7 @@ Trang bị cho sinh viên hiểu về cách thức kết nối cơ bản của U
 ## ⚙️ 2. Chức năng chính
     - Client: đọc file, chia thành gói tin, gửi qua UDP.
     - Server: nhận gói tin, sắp xếp và ghi thành file đầu ra.
-    -Đánh số gói tin: đảm bảo dữ liệu ghép đúng thứ tự.
+    - Đánh số gói tin: đảm bảo dữ liệu ghép đúng thứ tự.
 
 
 ## 🔧 3. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
