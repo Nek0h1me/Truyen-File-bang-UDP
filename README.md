@@ -54,3 +54,7 @@ java Server
 Chạy client để gửi hoặc nhận dữ liệu:
 
 java Client
+
+##  5. Kết quả
+
+
