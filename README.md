@@ -71,6 +71,6 @@ java Client
 
 
 ##  6. Liên hệ 
-**Họ và tên:** Nguyễn Cao Tùng
-**Lớp** CNTT 16-03 
-**Email** nguyentungxneko@gmail.com
+**Họ và tên:** Nguyễn Cao Tùng.
+**Lớp** CNTT 16-03.
+**Email** nguyentungxneko@gmail.com.
