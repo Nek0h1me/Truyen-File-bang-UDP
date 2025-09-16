@@ -30,14 +30,22 @@ Trang bị cho sinh viên hiểu về cách thức kết nối cơ bản của U
 - Xây dựng chương trình Client – Server bằng ngôn ngữ Java để gửi và nhận file .
 - Vận dụng kiến thức về lập trình socket trong Java.
 
-## ⚙️ 2. Chức năng chính
-    - Client: đọc file, chia thành gói tin, gửi qua UDP.
-    - Server: nhận gói tin, sắp xếp và ghi thành file đầu ra.
-    - Đánh số gói tin: đảm bảo dữ liệu ghép đúng thứ tự.
+## 🔧 2. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 
+##   3 Hình ảnh các chức năng 
 
-## 🔧 3. Ngôn ngữ lập trình sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-
+<div style="text-align:center;">
+  <img src="1.png" alt="Mô tả" style="max-width:100%; display:block; margin:0 auto;">
+  <p align="center" style="margin:8px 0 0;">1: Server</p>
+</div>
+<div style="text-align:center;">
+  <img src="2.png" alt="Mô tả" style="max-width:100%; display:block; margin:0 auto;">
+  <p align="center" style="margin:8px 0 0;">2: Client</p>
+</div>
+<div style="text-align:center;">
+  <img src="3.png" alt="Mô tả" style="max-width:100%; display:block; margin:0 auto;">
+  <p align="center" style="margin:8px 0 0;">3: Chọn file đưa vào Client</p>
+</div>
 
 ## 🚀 4. Hướng dẫn chạy
 
@@ -55,22 +63,9 @@ Chạy client để gửi hoặc nhận dữ liệu:
 
 java Client
 
-##  5. Kết quả
-<div style="text-align:center;">
-  <img src="1.png" alt="Mô tả" style="max-width:100%; display:block; margin:0 auto;">
-  <p align="center" style="margin:8px 0 0;">1: Server</p>
-</div>
-<div style="text-align:center;">
-  <img src="2.png" alt="Mô tả" style="max-width:100%; display:block; margin:0 auto;">
-  <p align="center" style="margin:8px 0 0;">2: Client</p>
-</div>
-<div style="text-align:center;">
-  <img src="3.png" alt="Mô tả" style="max-width:100%; display:block; margin:0 auto;">
-  <p align="center" style="margin:8px 0 0;">3: Chọn file đưa vào Client</p>
-</div>
 
 
-##  6. Liên hệ 
+##  5. Liên hệ 
 **Họ tên**: Nguyễn Cao Tùng.  
 **Lớp**: CNTT 16-03.  
 **Email**: nguyentungxneko@gmail.com.
